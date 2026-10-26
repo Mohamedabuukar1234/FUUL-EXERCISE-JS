@@ -1,0 +1,10 @@
+{
+    "name":"mohamed",
+    "id":1122,
+    "city":"xamar",
+    "others":[
+        {"name":"mohamed", "id":2526,"city":"xamar"},
+        {"name":"husein", "id":369,"city":"xamar"},
+        {"name":"muuse", "id":163,"city":"xamar"}
+    ]
+}
